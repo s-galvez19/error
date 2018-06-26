@@ -5,3 +5,14 @@
 // of numPassengers to the console.
 //
 // Note: you should have two console logs
+var numPassengers = 2
+
+numPassengers += numPassengers
+
+var newValue = 5 
+console.log(numPassengers)
+console.log(newValue)
+
+
+
+

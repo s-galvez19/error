@@ -6,3 +6,7 @@
 // Then first console log should print the number 8.
 // Then first console log should print the number 13.
 // Then first console log should print the number -3.
+
+var quad = function(num) {
+    return num * 4;
+}

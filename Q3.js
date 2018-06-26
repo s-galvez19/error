@@ -7,3 +7,6 @@
 //
 // IMPORTANT: you must replace <length of string> with the length of longString
 // using the .length property
+var longString = "Hola a todos, listos para el examen. "
+
+console.log(longString)

@@ -6,3 +6,8 @@
 //
 // You must replace the numbers in the string above with variables. The number
 // 36 must be calculated using math and two variables.
+var trainCapacity = 40
+numPassengers = 40-36
+var numPassengers = numPassengers +  " passengers present with 36 seats remaining"
+
+console.log(numPassengers)
