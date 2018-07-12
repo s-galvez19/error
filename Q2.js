@@ -7,4 +7,4 @@
 "two"
 3
 7
-console.log("eight " + " " + 5 + " " + "six" + " " + "two" + " " + 3 + " " + 7)
+console.log("eight "+ 5 + "six " + "two " + 3 + 7)

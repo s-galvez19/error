@@ -1,5 +1,6 @@
 // Create a variable named firstName and store your first name as a string inside
-// of it.
+// of it. 
+var firstName
 
 // Then create a variable named lastName and store your last name inside
 // of it.

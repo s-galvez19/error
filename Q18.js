@@ -5,8 +5,4 @@
 // Then make 3 console logs calling (running) your sum function inside of them.
 // Then first console log should print the number 8.
 // Then first console log should print the number 13.
-// Then first console log should print the number -3.
-
-var quad = function(num) {
-    return num * 4;
-}
+// Then first console log should print the number -3.var a, b, c, d, e;
